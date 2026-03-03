@@ -1,7 +1,7 @@
 # Hi 👋, I'm Fikrotun Najichah
 
 🎓 Software Engineering Graduate  
-💻 Web Developer | System Analyst | Administrator | Finance
+💻 Web Developer | System Analyst | Administrator | Finance  
 📍 Bengkalis, Riau, Indonesia  
 
 ---
