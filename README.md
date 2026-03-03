@@ -59,16 +59,6 @@ GPA: 3.55 / 4.00
 
 ---
 
-## 📜 Certifications
-- Junior Web Developer – BNSP (2024)
-- Practical Office Advanced – BNSP (2024)
-- Cloud Practitioner Essentials – Dicoding (2023)
-- Fundamentals of JavaScript – Dicoding (2023)
-- Introduction to Java – Dicoding (2022)
-- Application Security Auditing (White Box) – Inixindo (2023)
-
----
-
 ## 🌐 Connect With Me
 📧 Email: fikohjob@gmail.com  
 🌍 Portfolio: https://portfolio-fikroo.vercel.app/  
